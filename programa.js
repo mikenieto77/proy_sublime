@@ -1,2 +1,2 @@
 programa.js
-Aqui va el codigo de javascript
+Aqui va el codigo de javascript.
